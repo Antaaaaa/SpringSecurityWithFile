@@ -46,7 +46,7 @@ public class Xml {
     }
     public List<CustomUser> getListWithoutAdmin(){
         return getList().stream()
-                .filter(i -> !i.getLogin().equals("admin"))
+                .filter(i -> !i.getRole().toString().equals("ROLE_ADMIN"))
                 .collect(Collectors.toList());
     }
 }
