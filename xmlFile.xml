@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xml>
+    <user>
+        <email></email>
+        <login>admin</login>
+        <password>$2a$10$tsRUNFsZ5txyVFgoxxlRUONI9Oz7EZvwOiovyb/r8AQd3Qprn6nka</password>
+        <phone></phone>
+        <role>ADMIN</role>
+    </user>
+    <user>
+        <email></email>
+        <login>user</login>
+        <password>$2a$10$WF/bz2K6pzJoSEGvGPhwU.eZLIwmimuuoHQpUM9zBC1FNbZb5EyKi</password>
+        <phone></phone>
+        <role>USER</role>
+    </user>
+    <user>
+        <email></email>
+        <login>moder</login>
+        <password>$2a$10$l5M3aDEVbjfIwizak9b0e./zjGURdTXd0vMof7Zi8/Db8ezMVRs1W</password>
+        <phone></phone>
+        <role>MODER</role>
+    </user>
+    <user>
+        <email>ajslkdasjkd</email>
+        <login>user333</login>
+        <password>$2a$10$EjShaQAqINCd7YtVc3uDGe/jwwIB.XljahKsHZn.ISj3bq6sD5Jeu</password>
+        <phone>asdasdas</phone>
+        <role>USER</role>
+    </user>
+    <user>
+        <email>asdlkajsldk</email>
+        <login>user111</login>
+        <password>$2a$10$KMhQKLwy1mE9Rpc6w6DYi.aZu34LxyY0JhP.QjnE3QwHpogpqBgue</password>
+        <phone>jlkajsdlkasjdlkas</phone>
+        <role>USER</role>
+    </user>
+    <user>
+        <email>akjsdlkasjdkl</email>
+        <login>user222</login>
+        <password>$2a$10$DQbXbmBgrzJ2B6tqNZqZNOLpP/xBaM8zQoP0eE2L5Yn1Wc0wBvH0G</password>
+        <phone>lkajsdlkjaslkdjalksd</phone>
+        <role>USER</role>
+    </user>
+</xml>
